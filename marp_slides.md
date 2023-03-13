@@ -45,6 +45,12 @@ Barschweg 19
 
 ---
 
+# Garage
+
+![bg right](img/garage-1.jpg)
+
+---
+
 # LAGE
 
 ![bg left fit](img/3051-lage.jpg)
