@@ -33,6 +33,18 @@ Barschweg 19
 
 ---
 
+# Kaminofen
+
+- [Austroflamm Clou Xtra](https://www.austroflamm.com/de/oefen/kaminoefen/clou-xtra-2-0-21314)
+- Xtra Wärmespeicher-Technologie
+- [DIBt-Zulassung](https://www.ofen.de/wissenscenter/infothek/verordnungen-gesetze/dibt-wie-wichtig-ist-die-zertifizierung)
+- Wärmeleistung - 8 kW
+- Großartiges Design
+
+![bg left](img/fireplace-3.jpg)
+
+---
+
 # LAGE
 
 ![bg left fit](img/3051-lage.jpg)
@@ -59,7 +71,7 @@ Barschweg 19
 
 Energieausweis | bedarfsorientiert
 ---|---
-Energiebedarf | 31 kWh/(m<sup>2</sup>a)
+Energiebedarf | 31 kWh/(m2a)
 Gebäudeart laut Energieausweis | Wohngebäude
 Wesentliche Energieträger | Erdgas  
 Ausstellungsdatum Energieausweis | 17.11.2020
