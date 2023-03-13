@@ -13,7 +13,8 @@
                 "div",
                 "span",
                 "style",
-                "br"
+                "br",
+                "sup"
             ]
         }
     },
