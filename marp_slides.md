@@ -45,6 +45,12 @@ Barschweg 19
 
 ---
 
+# Wunderschöne Garten
+
+![bg right](img/garden-all.jpg)
+
+---
+
 # Garage
 
 ![bg right](img/garage-1.jpg)
