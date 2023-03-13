@@ -55,7 +55,7 @@ Barschweg 19
 
 ![bg right fit](img/3051-energie.jpg)
 
-<style scoped>section {font-size: 27px;}</style>
+<style scoped>section {font-size: 22px;}</style>
 
 Energieausweis | bedarfsorientiert
 ---|---
