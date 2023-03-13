@@ -51,6 +51,12 @@ Barschweg 19
 
 ---
 
+# Studio mit Balkon und Ausblick
+
+![bg left](img/studio-all.jpg)
+
+---
+
 # Garage
 
 ![bg right](img/garage-1.jpg)
