@@ -45,15 +45,40 @@ Barschweg 19
 
 ---
 
-# Wunderschöne Garten
+# Wunderschöner Garten
 
 ![bg right](img/garden-all.jpg)
+
+---
+
+# EG
+
+![bg right fit](img/barschweg-EG.jpg)
+
+---
+
+# OG
+
+![bg left fit](img/barschweg-OG.jpg)
 
 ---
 
 # Studio mit Balkon und Ausblick
 
 ![bg left](img/studio-all.jpg)
+
+---
+
+# UG
+
+![bg right fit](img/keller-1.JPG)
+![bg right fit](img/keller-2.JPG)
+
+---
+
+# Eingang
+
+![bg left fit](img/entrance-all.jpg)
 
 ---
 
