@@ -11,9 +11,17 @@ style: |
         background: #004643;
         color: #abd1c6
     }
+    footer {
+        font-size: 12px;
+    }
 ---
 
 # Verkauf: Neuwertiges RMH in Adelsdorf
+
+<!-- Do not add page number on this slide -->
+<!--
+_paginate: false
+-->
 
 **PROVISIONSFREI**
 
@@ -26,6 +34,11 @@ Barschweg 19
 ---
 
 # Objektbeschreibung
+
+<!-- Add footer starting from this slide -->
+<!--
+footer: 'Tel: +49 160 2028 774 / Barschweg 19, 91325 Adelsdorf / Preis: 554 000 €'
+-->
 
 <style scoped>section {font-size: 14px;}</style>
 
@@ -202,5 +215,5 @@ Baujahr laut Energieausweis | 2020
 - Provisionsfrei
 - Sofort bezugsfertig
 - Ansprechpartner:
-  - to-be-defined
-  - Telefon: to-be-defined
+  - Zoya Ankudinova
+  - Telefon: `+49 160 2028 774`
