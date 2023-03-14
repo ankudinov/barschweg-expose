@@ -27,6 +27,34 @@ Barschweg 19
 
 # Objektbeschreibung
 
+<style scoped>section {font-size: 14px;}</style>
+
+> Das neuwertige Reihenmittelhaus (Hausstil Smile) wurde 2020 in qualitativ hochwertiger Massivbauweise errichtet.
+> Alle Außenwände sind aus Kalksandstein mit Wärmedämmverbundsystem und Oberputz.
+>
+> Die Wohnfläche beträgt 162 m2 und verteilt sich auf drei großzügige Ebenen (EG mit gepflegtem Garten, OG, Dachstudio mit Dachterrasse).
+> Die Nutzfläche beträgt ca. 57 m2.
+>
+> Die Immobilie ist voll unterkellert. Im komplett gefliesten Keller findet man folgende Räume vor: Technikraum mit Hausanschlüssen, Hobbyraum und Stauraum. Im Anschlussraum wurde zusätzlich eine Enthärtungsanlage installiert.
+>
+> Eine moderne zentrale Wohnraumlüftung mit Wärmerückgewinnung sichert Ihnen einen gleichmäßigen Austausch von verbrauchter und frischer Luft. Das energieeffiziente Haus ist mittels einer Gasbrennwertterme beheizt. Die Warmwasserbereitung erfolgt über einen Warmwasserspeicher.
+>
+> Im Eingangsbereich findet man ein heller Flur mit Garderobe. Eine separate Gästetoilette steht ebenfalls zur Verfügung.
+Ein schöner, offen gestalteter Wohn- Essbereich mit Kaminofen wirkt sehr einladend. Durch das Sichtfenster des Kaminofens der Marke Austroflamm kann man das faszinierende Flammenspiel im Feuerraum betrachten. Perfekt für kalte Tage ist die fantastische Wärmespeichersystem.
+Die hochwertige Nolte Einbauküche ist im Kaufpreis inbegriffen.
+Von Wohnzimmer aus gelangen Sie über zwei Flügeltüren zu privatem gut gepflegtem Garten. Ein großes Gartenhaus mit zusätzlichem Stauraum sowie eine robuste Schaukel stehen Ihnen zur Verfügung. Der hochwertige Gartentor inkl. Schloß bietet den Zugang zur ruhigen Straße.
+Über eine Treppe gelangt man ins Obergeschoss. Hier findet man drei unterschiedlich große Schlafzimmer und ein modernes Tageslichtbad mit Dusche , Badewanne, WC, Waschbecken und manuelle Hygienedusche. Alle Fliesen in den Nassräumen sowie in der Küche wurden geschmackvoll ausgewählt.
+Ein weiterer Treppenaufgang führt zum Dachgeschoss. Es dient als Elternschlafzimmer. Von hier aus hat man Zutritt auf die 13m2 große Dachterrasse mit fantastischem Fernblick inmitten der Natur.  Hier finden Sie viel Platz für Ihre wertvolle Privatsphäre.
+>
+> Das Wohnhaus ist mit einem Glasfaseranschluss (up to 1000Mbit/s) und einem Videoüberwachungssystem ausgestattet.
+>
+> Besonders praktisch: 2 Stellplätze befinden sich direkt vor dem Haus.
+>
+> Der Gesamtpreis des angebotenen Grundstücks mit Wohnhaus und zwei Stellplätzen beträgt `554 000` €.
+Optional kann eine Einzelgarage für einen Kaufpreis von `30 000` € erworben werden.
+>
+> Die Immobilie ist aktuell nicht bewohnt und ein Bezug ist jederzeit möglich.
+
 ---
 
 # Ausstattung
