@@ -46,7 +46,7 @@ Von Wohnzimmer aus gelangen Sie über zwei Flügeltüren zu privatem gut gepfleg
 Über eine Treppe gelangt man ins Obergeschoss. Hier findet man drei unterschiedlich große Schlafzimmer und ein modernes Tageslichtbad mit Dusche , Badewanne, WC, Waschbecken und manuelle Hygienedusche. Alle Fliesen in den Nassräumen sowie in der Küche wurden geschmackvoll ausgewählt.
 Ein weiterer Treppenaufgang führt zum Dachgeschoss. Es dient als Elternschlafzimmer. Von hier aus hat man Zutritt auf die 13m2 große Dachterrasse mit fantastischem Fernblick inmitten der Natur.  Hier finden Sie viel Platz für Ihre wertvolle Privatsphäre.
 >
-> Das Wohnhaus ist mit einem Glasfaseranschluss (up to 1000Mbit/s) und einem Videoüberwachungssystem ausgestattet.
+> Das Wohnhaus ist mit einem Glasfaseranschluss (1000Mbit/s max. Download) und einem Videoüberwachungssystem ausgestattet.
 >
 > Besonders praktisch: 2 Stellplätze befinden sich direkt vor dem Haus.
 >
@@ -58,6 +58,14 @@ Optional kann eine Einzelgarage für einen Kaufpreis von `30 000` € erworben w
 ---
 
 # Ausstattung
+
+<style scoped>section {font-size: 28px;}</style>
+
+- zentrale Wohnraumlüftung mit Wärmerückgewinnung
+- Highspeed-Internet mit Glasfaser (1000Mbit/s max. Download)
+- Ethernet Anschluss auf jeden Stock
+- Weichwasseranlage [Grünbeck softliQ:SD21](https://www.gruenbeck.de/produkte-loesungen/gruenbeck-fuer-zuhause/enthaertungsanlagen/kalkschutz/softliqsd)
+- Gasbrennwertterme mit Warmwasserspeicher
 
 ![bg right](img/barschweg-Ausstattung.jpg)
 
