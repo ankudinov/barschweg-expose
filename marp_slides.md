@@ -73,11 +73,15 @@ Optional kann eine Einzelgarage für einen Kaufpreis von `30 000` € erworben w
 
 # Kaminofen
 
+<style scoped>section {font-size: 30px;}</style>
+
 - [Austroflamm Clou Xtra](https://www.austroflamm.com/de/oefen/kaminoefen/clou-xtra-2-0-21314)
 - Xtra Wärmespeicher-Technologie
 - [DIBt-Zulassung](https://www.ofen.de/wissenscenter/infothek/verordnungen-gesetze/dibt-wie-wichtig-ist-die-zertifizierung)
 - Wärmeleistung - 8 kW
 - Großartiges Design
+
+> faszinierende Flammenspiel im Feuerraum betrachten
 
 ![bg left](img/fireplace-3.jpg)
 
@@ -85,11 +89,20 @@ Optional kann eine Einzelgarage für einen Kaufpreis von `30 000` € erworben w
 
 # Wunderschöner Garten
 
+<style scoped>section {font-size: 28px;}</style>
+
+> Von Wohnzimmer aus gelangen Sie über zwei Flügeltüren zu privatem gut gepflegtem Garten. Ein großes Gartenhaus mit zusätzlichem Stauraum sowie eine robuste Schaukel stehen Ihnen zur Verfügung. Der hochwertige Gartentor inkl. Schloß bietet den Zugang zur ruhigen Straße.
+
 ![bg right](img/garden-all.jpg)
 
 ---
 
 # EG
+
+<style scoped>section {font-size: 28px;}</style>
+
+> Ein schöner, offen gestalteter Wohn- Essbereich mit Kaminofen wirkt sehr einladend. Durch das Sichtfenster des Kaminofens der Marke Austroflamm kann man das faszinierende Flammenspiel im Feuerraum betrachten. Perfekt für kalte Tage ist die fantastische Wärmespeichersystem.
+Die hochwertige Nolte Einbauküche ist im Kaufpreis inbegriffen.
 
 ![bg right fit](img/barschweg-EG.jpg)
 
@@ -97,17 +110,27 @@ Optional kann eine Einzelgarage für einen Kaufpreis von `30 000` € erworben w
 
 # OG
 
+> Über eine Treppe gelangt man ins Obergeschoss. Hier findet man drei unterschiedlich große Schlafzimmer und ein modernes Tageslichtbad mit Dusche , Badewanne, WC, Waschbecken und manuelle Hygienedusche.
+
 ![bg left fit](img/barschweg-OG.jpg)
 
 ---
 
 # Studio mit Balkon und Ausblick
 
+<style scoped>section {font-size: 28px;}</style>
+
+> Ein weiterer Treppenaufgang führt zum Dachgeschoss. Es dient als Elternschlafzimmer. Von hier aus hat man Zutritt auf die 13m2 große Dachterrasse mit fantastischem Fernblick inmitten der Natur.  Hier finden Sie viel Platz für Ihre wertvolle Privatsphäre.
+
 ![bg left](img/studio-all.jpg)
 
 ---
 
 # UG
+
+<style scoped>section {font-size: 28px;}</style>
+
+> Die Immobilie ist voll unterkellert. Im komplett gefliesten Keller findet man folgende Räume vor: Technikraum mit Hausanschlüssen, Hobbyraum und Stauraum. Im Anschlussraum wurde zusätzlich eine Enthärtungsanlage installiert.
 
 ![bg right fit](img/keller-1.JPG)
 ![bg right fit](img/keller-2.JPG)
@@ -116,11 +139,15 @@ Optional kann eine Einzelgarage für einen Kaufpreis von `30 000` € erworben w
 
 # Eingang
 
+> Besonders praktisch: 2 Stellplätze befinden sich direkt vor dem Haus.
+
 ![bg left fit](img/entrance-all.jpg)
 
 ---
 
 # Garage
+
+> Optional kann eine Einzelgarage für einen Kaufpreis von `30 000` € erworben werden.
 
 ![bg right](img/garage-1.jpg)
 
