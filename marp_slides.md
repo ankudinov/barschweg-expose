@@ -31,6 +31,8 @@ Barschweg 19
 
 # Ausstattung
 
+![bg right](img/barschweg-Ausstattung.jpg)
+
 ---
 
 # Kaminofen
