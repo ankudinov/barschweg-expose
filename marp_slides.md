@@ -161,11 +161,20 @@ Die hochwertige Nolte Einbauküche ist im Kaufpreis inbegriffen.
 
 # Grundrisse
 
+- Kellergeschoss
+- Erdgeschoss
+- Obergeschoss
+- Dachstudio
+
 ![bg right fit](img/3051-grundrisse.jpg)
 
 ---
 
 # Grundrisse-2
+
+- Schnitt
+- Eingangsansicht
+- Gartenansicht
 
 ![bg right fit](img/3051-grundrisse-2.jpg)
 
