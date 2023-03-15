@@ -168,6 +168,16 @@ Die hochwertige Nolte Einbauküche ist im Kaufpreis inbegriffen.
 
 # LAGE
 
+<style scoped>section {font-size: 18px;}</style>
+
+> Das Reihenmittelhaus befindet sich in einem familienfreundlichen Neubaugebiet “Seeside” in Adelsdorf.
+>
+> Die Gemeinde Adelsdorf liegt mitten im Aischgrund und verfügt über eine ausgezeichnete Infrastruktur.
+> Hier finden Sie Grund- und Mittelschule, verschiedene Kindergärten, Banken, Tankstellen, Sportvereine, Fitness, Post, gute ärztliche Versorgung, Apotheken, zahlreiche Freizeiteinrichtungen und kulturelle Angebote, Gastronomie und Einkaufsmöglichkeiten für den täglichen Bedarf.
+>
+> Adelsdorf liegt gut erreichbar an der A3 und an der B470, die zwischen Forchheim und Rothenburg verläuft.
+> Mehrere Busverbindungen sichern die Anbindung in die Städte der Umgebung (z.B. Höchstadt, Forchheim, Erlangen).
+
 ![bg left fit](img/3051-lage.jpg)
 
 ---
