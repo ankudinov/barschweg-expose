@@ -46,7 +46,7 @@ footer: 'Tel: +49 160 2028 774 / Barschweg 19, 91325 Adelsdorf / Preis: 554 000 
 > Alle Außenwände sind aus Kalksandstein mit Wärmedämmverbundsystem und Oberputz.
 >
 > Die Wohnfläche beträgt 162 m2 und verteilt sich auf drei großzügige Ebenen (EG mit gepflegtem Garten, OG, Dachstudio mit Dachterrasse).
-> Die Nutzfläche beträgt ca. 57 m2.
+> Die Nutzfläche beträgt ca. 57 m2. Grundstück ca. 167 m2.
 >
 > Die Immobilie ist voll unterkellert. Im komplett gefliesten Keller findet man folgende Räume vor: Technikraum mit Hausanschlüssen, Hobbyraum und Stauraum. Im Anschlussraum wurde zusätzlich eine Enthärtungsanlage installiert.
 >
