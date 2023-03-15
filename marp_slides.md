@@ -79,6 +79,7 @@ Optional kann eine Einzelgarage für einen Kaufpreis von `30 000` € erworben w
 - Ethernet Anschluss auf jeden Stock
 - Weichwasseranlage [Grünbeck softliQ:SD21](https://www.gruenbeck.de/produkte-loesungen/gruenbeck-fuer-zuhause/enthaertungsanlagen/kalkschutz/softliqsd)
 - Gasbrennwertterme mit Warmwasserspeicher
+- Videoüberwachungssystem
 
 ![bg right](img/barschweg-Ausstattung.jpg)
 
